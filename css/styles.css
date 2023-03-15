@@ -11,6 +11,11 @@ body {
   font-weight: 400;
   color: #434455;
 }
+
+.list {
+  list-style: none;
+}
+
 .logo-link {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
@@ -34,6 +39,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
+
 .navigation {
   font-weight: 500;
 }
