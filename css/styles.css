@@ -12,15 +12,20 @@ body {
   color: #434455;
 }
 .logo-link {
-  color: var(--main-text-color);
+  color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
   line-height: 21px;
 }
+
+.link {
+  text-decoration: none;
+}
+
 .web-logo {
-  color: #4d5ae5;
+  color: var(--main-text-color);
   font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
