@@ -100,10 +100,11 @@ body {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #ffffff;
 }
 .title-btn {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -111,6 +112,12 @@ body {
   letter-spacing: 0.04em;
   color: #ffffff;
   background: #4d5ae5;
+}
+
+.title-btn:hover,
+:focus {
+  background-color: #404bbf;
+  cursor: pointer;
 }
 
 /*---------------------PRINCIPLES------------------------*/
