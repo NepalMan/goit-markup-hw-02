@@ -42,11 +42,14 @@ body {
 .header-list {
 }
 
-.list {
+.header-item:hover {
+  color: #404bbf;
 }
 
-.header-item {
+.header-item:focus {
+  color: #404bbf;
 }
+
 .header-link {
   color: #2e2f42;
   font-family: "Roboto", sans-serif;
@@ -61,6 +64,7 @@ body {
 }
 
 .address {
+  font-style: normal;
 }
 
 .address-list {
@@ -144,8 +148,7 @@ body {
   color: #434455;
 }
 
-/*---------------------WHAT ARE WE DOING------------------------*/
-/*3 IMAGES*/
+/*---------------------PRODUCTION------------------------*/
 
 /*---------------------TEAM------------------------*/
 
