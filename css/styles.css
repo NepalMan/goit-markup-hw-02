@@ -180,6 +180,7 @@ body {
 /*---------------------TEAM------------------------*/
 
 .team {
+  background-color: #f4f4fd;
 }
 .team-header {
   font-family: "Roboto", sans-serif;
@@ -188,10 +189,13 @@ body {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 
 .team-list {
+  background-color: #ffffff;
 }
 
 .team-item {
