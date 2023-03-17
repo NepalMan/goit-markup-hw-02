@@ -281,9 +281,28 @@ body {
   background: #f4f4fd;
 }
 
-.active:hover,
+.filter-btn:hover,
 :focus {
   color: #ffffff;
   background: #404bbf;
   cursor: pointer;
+}
+
+.filter {
+}
+.filter-list {
+}
+.filter-btn {
+}
+.active {
+}
+.list {
+}
+.projects {
+}
+.project-item {
+}
+.project-item-header {
+}
+.project-item-text {
 }
